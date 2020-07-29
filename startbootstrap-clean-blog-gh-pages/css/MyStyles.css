@@ -1,0 +1,16 @@
+/*K. Scott 7/24/20*/
+body{background: url('https://wallpaperaccess.com/full/2265528.jpg')  ;
+    font-family: Arial, Helvetica, sans-serif;}
+p{text-align: center;}
+h1{text-decoration: underline;
+    font-weight: bold;}
+h2{text-align: center;
+    font-size: 60px;}
+.underline{text-decoration: underline;
+            text-align: justify;
+            font-weight: bold;
+            font-size: 29px}
+.subheading{font-style: italic;}
+.subcat{font-style:italic;}
+.name{font-weight: bold;}
+
